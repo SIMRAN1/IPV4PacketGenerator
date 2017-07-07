@@ -1,0 +1,37 @@
+body
+{
+	background-image:url("back.png");
+}
+h1
+{text-align:center;
+color:black;
+}
+.form
+{position:relative;
+margin-left: 35%;
+  margin-top:10%;
+  width:65%;
+ color:blue;
+
+  
+}
+.submit
+{
+position:absolute;
+float:right;
+margin-left: 35%;
+}
+
+.reset
+{
+position:absolute;
+float:right;
+margin-left: 55%;
+  
+}
+.stop
+{
+position:absolute;
+margin-left: 45%;
+  
+}
